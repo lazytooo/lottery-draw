@@ -1,2 +1,4 @@
 # lottery-draw
-a small lottery draw utils
+
+A small lottery draw utils
+
